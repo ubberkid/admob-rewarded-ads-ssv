@@ -12,6 +12,9 @@ Add a function to listent to incoming http requests.
 Install via NPM
 
 ```
+$ npm install https://github.com/ubberkid/admob-rewarded-ads-ssv.git
+
+// This npm package isn't up to date with github, so use above instead^
 $ npm install --save admob-rewarded-ads-ssv
 ```
 
